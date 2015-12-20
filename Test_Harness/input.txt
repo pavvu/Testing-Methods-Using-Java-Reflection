@@ -1,0 +1,3 @@
+1, 9999999, 56, 45, 78, 23, 45, 0, 0, 0, 64, 34, 67, 12, 37
+2.33, 4.45, 45.7, 32.56, 2.56, 456.45, 67.907, 245.13, 78.345, 78.125, 67.234, 876.90, 543.87, 6.3, 8.0
+test1, test2, test3, test4, testtest5, testtesttesttest6, testtesttesttesttesttesttesttesttesttest7, 8, TEST9, CUT10, OOLE11, REFLECTION12, qwerty13, asdfgh14, MMNBVC15 
